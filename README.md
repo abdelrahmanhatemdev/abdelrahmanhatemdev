@@ -1,9 +1,9 @@
 # Abdelrahman Hatem
-Front-end Developer | Next.js Enthusiast <br/>
+Front-end Developer | Next.js Enthusiast <br>
 Building high-performance, scalable web apps
 
-Cairo, Egypt <br/>
-abdelrahmanhatem.dev@gmail.com | [Portfolio](https://www.hatem.bio/) | [LinkedIn](https://www.linkedin.com/in/abdelrahmanhatemdev/)
+Cairo, Egypt <br>
+<abdelrahmanhatem.dev@gmail.com> | [Portfolio](https://www.hatem.bio/) | [LinkedIn](https://www.linkedin.com/in/abdelrahmanhatemdev/)
 
 
 ## About Me
@@ -46,11 +46,40 @@ alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp;
 
 
 ## Featured Projects
-🎨 Vogue Admin
+🎨 **Vogue Admin**<br>
 Next.js | Firebase | Zustand | Redis
 ✅ Admin dashboard for managing products, orders, and settings.
 ✅ Role-based authentication with secure CRUD operations.
 ✅ Optimized performance using ISR, SSR, and caching strategies.
+
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
+
+</td>
+<td>
+
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table>
 
 🌐 Hatem.bio
 Next.js | Tailwind | Firebase | Framer Motion
@@ -68,5 +97,5 @@ React | YouTube API | GitHub Pages | React Router
 ## Let's Connect!
 I'm always open to collaborations, freelance opportunities, and discussing exciting projects!
 
-abdelrahmanhatem.dev@gmail.com
+<abdelrahmanhatem.dev@gmail.com> |
 [Portfolio](https://www.hatem.bio/) | [LinkedIn](https://www.linkedin.com/in/abdelrahmanhatemdev/)
