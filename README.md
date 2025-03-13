@@ -19,14 +19,14 @@ I'm a Next.js Front-end Developer with 6+ years of experience in building fast, 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/react.webp" alt="React" title="React">](https://react.dev/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/typescript.webp" alt="Typescript" title="Typescript">](https://www.typescriptlang.org/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/tailwind.webp" alt="Tailwind" title="Tailwind">](https://tailwindcss.com/) &ensp; 
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/shadcn.webp" alt="Shadcn" title="Shadcn">](https://shadcn.dev/) &ensp; 
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/shadcn.webp" alt="Shadcn" title="Shadcn">](https://ui.shadcn.com/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/react-icons.webp" alt="React Icons" title="React Icons">](https://react-icons.github.io/react-icons/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/framer.webp" alt="Framer Motion" title="Framer Motion">](https://www.framer.com/motion/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/zod.webp" alt="Zod" title="Zod">](https://zod.dev/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/react-hot-toast.webp" alt="React Hot Toast" title="React Hot Toast">](https://react-hot-toast.com/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/swiper.webp" alt="Swiper" title="Swiper">](https://swiperjs.com/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/recharts.webp" alt="Recharts" title="Recharts">](https://recharts.org/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/html.webp" alt="HTML" title="HTML">](https://html.com/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/html.webp" alt="HTML" title="HTML">](https://developer.mozilla.org/en-US/docs/Web/HTML) &ensp;
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/css.webp" alt="CSS" title="css">](https://developer.mozilla.org/en-US/docs/Web/CSS) &ensp;
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/javascript.webp" alt="Javascript" title="Javascript">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &ensp;
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/react-router.webp" alt="React Router" title="React Router">](https://reactrouter.com/) &ensp;
