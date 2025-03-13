@@ -67,7 +67,7 @@ React | YouTube API | GitHub Pages | React Router<br>
 ✅ Video search & playback using YouTube API.<br>
 ✅ Dark/light mode & local storage for user preferences.
 
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/hatem.webp" alt="Youtube Clone" title="Youtube Clone">](https://abdelrahmanhatemdev.github.io/youtube-api/) &ensp; 
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/youtube-clone.webp" alt="Youtube Clone" title="Youtube Clone">](https://abdelrahmanhatemdev.github.io/youtube-api/) &ensp; 
 
 🔍 [**More Projects →**](https://github.com/abdelrahmanhatemdev?tab=repositories)
 
