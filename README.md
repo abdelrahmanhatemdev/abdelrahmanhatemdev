@@ -47,11 +47,8 @@ alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp;
 
 ## Featured Projects
 
- _______________________________
-| Some title   | Some text here.|
- _______________________________
-| image        | More text.     |
- _______________________________
+| Header      | Title       |
+| Paragraph   | Text        |
 <table>
 
 <tr>
