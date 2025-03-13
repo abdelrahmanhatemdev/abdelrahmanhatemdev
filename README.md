@@ -7,6 +7,8 @@
 📧 abdelrahmanhatem.dev@gmail.com
 🌐 Portfolio | LinkedIn | GitHub
 
+---
+
 🚀 About Me
 I'm a Next.js Front-end Developer with 6+ years of experience in building fast, scalable, and engaging web applications. Passionate about performance optimization, UI/UX design, and state management, I specialize in crafting seamless user experiences with modern technologies like React, TypeScript, Tailwind, and Firebase.
 
