@@ -16,18 +16,6 @@ I'm a Next.js Front-end Developer with 6+ years of experience in building fast, 
 
 ---
 
-• Front-end: Next.js, React, TypeScript, JavaScript (ES6+), HTML5, CSS3, React Router 
-• Styling: Tailwind CSS, Shadcn, Sass 
-• State Management: Zustand, Redux, Context API 
-• APIs: RESTful APIs, Axios, TanStack Query (React Query), SWR 
-• Database & Caching: Firebase (Firestore, Authentication), Upstash Redis 
-• DevOps: Vercel, CI/CD, GitHub Pages 
-• Tools: ESLint, Prettier, Git 
-• UI Libraries: React Icons 
-• Form Validation: Zod, React Hook Form 
-• Notifications: React Hot Toast 
-• UI/UX & Animations: Framer Motion 
-
 🛠 Tech Stack
 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/nextjs.webp" alt="Nextjs" title="Nextjs">](https://nextjs.org/) &ensp; 
@@ -47,19 +35,22 @@ I'm a Next.js Front-end Developer with 6+ years of experience in building fast, 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/react-router.webp" alt="React Router" title="React Router">](https://reactrouter.com/) &ensp;
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/sass.webp" alt="Sass" title="Sass">](https://sass-lang.com/) &ensp;
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/redux.webp" alt="Redux" title="Redux">](https://redux.js.org/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/rest.webp" alt="Rest" title="Rest">](https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20API%20is%20an%20interface,applications%20to%20perform%20various%20tasks.) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/i18next.webp" alt="I18next" title="I18next">](https://www.i18next.com/) &ensp; 
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/prettier.webp" alt="Prettier" title="Prettier">](https://prettier.io/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/eslint.webp" alt="ESLint" title="ESLint">](https://eslint.org/) &ensp; 
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/git.webp" alt="Git" title="Git">](https://git-scm.com/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/axios.webp" alt="Axios" title="Axios">](https://axios-http.com/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/swr.webp" alt="Swr" title="Swr">](https://swr.vercel.app/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/rest.webp" alt="Rest" title="Rest">](https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20API%20is%20an%20interface,applications%20to%20perform%20various%20tasks.) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/firebase.webp" 
+alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/redis.webp" alt="Redis" title="Redis">](https://redis.io/) &ensp;
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/github-pages.webp" alt="Github Pages" title="Github Pages">](https://pages.github.com/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/prettier.webp" alt="Prettier" title="Prettier">](https://prettier.io/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/git.webp" alt="Git" title="Git">](https://git-scm.com/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/eslint.webp" alt="ESLint" title="ESLint">](https://eslint.org/) &ensp; 
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/axios.webp" alt="Axios" title="Axios">](https://axios-http.com/) &ensp; 
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/firebase.webp" alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/vercel.webp" alt="vercel" title="vercel">](https://www.vercel.com/) &ensp; 
 
 
 
+---
 
 🔥 Featured Projects
 🎨 Vogue Admin
