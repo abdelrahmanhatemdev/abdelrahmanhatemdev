@@ -67,7 +67,7 @@ Next.js | Firebase | Zustand | Redis<br>
 <tr>
 <td>
 
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/hatem-1.webp" alt="Hatem Portfolio" title="Hatem Portfolio">](https://hatem.bio/) &ensp; 
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/hatem.webp" alt="Hatem Portfolio" title="Hatem Portfolio">](https://hatem.bio/) &ensp; 
 
 </td>
 <td>
@@ -81,7 +81,7 @@ Next.js | Firebase | Zustand | Redis<br>
 <tr>
 <td>
 
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/youtube-clone.webp" alt="Youtube Clone" title="Youtube Clone">](https://abdelrahmanhatemdev.github.io/youtube-api/) &ensp; 
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/youtube-clone-1.webp" alt="Youtube Clone" title="Youtube Clone">](https://abdelrahmanhatemdev.github.io/youtube-api/) &ensp; 
 
 </td>
 <td>
