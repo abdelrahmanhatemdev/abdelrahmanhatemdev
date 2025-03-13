@@ -77,7 +77,7 @@ Next.js | Firebase | Zustand | Redis<br>
 ✅ Admin dashboard for managing products, orders, and settings.<br>
 ✅ Role-based authentication with secure CRUD operations.<br>
 ✅ Optimized performance using ISR, SSR, and caching strategies.<br>
-🔗 [Repo](https://github.com/abdelrahmanhatemdev/vogue-admin)
+🔗 <a href="https://github.com/abdelrahmanhatemdev/vogue-admin">Repo</a>
 </td>
 </tr>
 
