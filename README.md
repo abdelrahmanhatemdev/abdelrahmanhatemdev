@@ -61,7 +61,7 @@ Here are my featured List:
 ✅ Personal portfolio showcasing projects and skills.<br>
 ✅ Interactive animations for an engaging experience.<br>
 ✅ Firebase contact forms for collaboration requests.<br>
-🔗 [Repo](https://github.com/abdelrahmanhatemdev/hatem)
+🔗 <a href="https://github.com/abdelrahmanhatemdev/hatem">Repo</a>
 </td>
 </tr>
 
@@ -77,7 +77,7 @@ Next.js | Firebase | Zustand | Redis<br>
 ✅ Admin dashboard for managing products, orders, and settings.<br>
 ✅ Role-based authentication with secure CRUD operations.<br>
 ✅ Optimized performance using ISR, SSR, and caching strategies.<br>
-🔗 <a href="https://github.com/abdelrahmanhatemdev/vogue-admin" target="_blank">Repo</a>
+🔗 <a href="https://github.com/abdelrahmanhatemdev/vogue-admin">Repo</a>
 </td>
 </tr>
 
@@ -85,13 +85,14 @@ Next.js | Firebase | Zustand | Redis<br>
 <td>
 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/youtube-clone-1.webp" alt="Youtube Clone" title="Youtube Clone">](https://abdelrahmanhatemdev.github.io/youtube-api/) &ensp;
-🔗 [Repo](https://github.com/abdelrahmanhatemdev/youtube-api)
+
 </td>
 <td>
 🎬 <strong>YouTube API Clone</strong><br>
 React | YouTube API | GitHub Pages | React Router<br>
 ✅ Video search & playback using YouTube API.<br>
 ✅ Dark/light mode & local storage for user preferences.<br>
+🔗 <a href="https://github.com/abdelrahmanhatemdev/youtube-api">Repo</a>
 
 </td>
 </tr>
