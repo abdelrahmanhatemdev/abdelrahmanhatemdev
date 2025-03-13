@@ -47,8 +47,13 @@ alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp;
 
 ## Featured Projects
 
+| Syntax      | Description |
+| ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
+
+
+
 <table>
 
 <tr>
