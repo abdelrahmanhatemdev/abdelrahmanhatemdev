@@ -47,26 +47,30 @@ alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp;
 
 ## Featured Projects
 🎨 **Vogue Admin**<br>
-Next.js | Firebase | Zustand | Redis
+Next.js | Firebase | Zustand | Redis<br>
 ✅ Admin dashboard for managing products, orders, and settings.<br>
 ✅ Role-based authentication with secure CRUD operations.<br>
 ✅ Optimized performance using ISR, SSR, and caching strategies.
 
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/vogue-admin.webp" alt="vercel" title="vercel">](https://vogue-admin.vercel.app/) &ensp; 
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/vogue-admin.webp" alt="Vogue Admin" title="Vogue Admin">](https://vogue-admin.vercel.app/) &ensp; 
 
 
-🌐 Hatem.bio
-Next.js | Tailwind | Firebase | Framer Motion
-✅ Personal portfolio showcasing projects and skills.
-✅ Interactive animations for an engaging experience.
+🌐 **Hatem.bio**<br>
+Next.js | Tailwind | Firebase | Framer Motion<br>
+✅ Personal portfolio showcasing projects and skills.<br>
+✅ Interactive animations for an engaging experience.<br>
 ✅ Firebase contact forms for collaboration requests.
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/hatem.webp" alt="Hatem Portfolio" title="Hatem Portfolio">](https://hatem.bio/) &ensp; 
 
-🎬 YouTube API Clone
-React | YouTube API | GitHub Pages | React Router
-✅ Video search & playback using YouTube API.
+🎬 **YouTube API Clone**<br>
+React | YouTube API | GitHub Pages | React Router<br>
+✅ Video search & playback using YouTube API.<br>
 ✅ Dark/light mode & local storage for user preferences.
 
-🔍 More Projects →
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/hatem.webp" alt="Youtube Clone" title="Youtube Clone">](https://abdelrahmanhatemdev.github.io/youtube-api/) &ensp; 
+
+🔍 [**More Projects →**](https://github.com/abdelrahmanhatemdev?tab=repositories)
+
 
 ## Let's Connect!
 I'm always open to collaborations, freelance opportunities, and discussing exciting projects!
