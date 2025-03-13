@@ -41,26 +41,22 @@ I'm a Next.js Front-end Developer with 6+ years of experience in building fast, 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/react-hot-toast.webp" alt="React Hot Toast" title="React Hot Toast">](https://react-hot-toast.com/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/swiper.webp" alt="Swiper" title="Swiper">](https://swiperjs.com/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/recharts.webp" alt="Recharts" title="Recharts">](https://recharts.org/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/html.webp" alt="html" title="html">](https://html.com/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/css.webp" alt="css" title="css">](https://developer.mozilla.org/en-US/docs/Web/CSS) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/javascript.webp" alt="javascript" title="javascript">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/react-router.webp" alt="react-router" title="react-router">](https://reactrouter.com/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/sass.webp" alt="sass" title="sass">](https://sass-lang.com/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/redux.webp" alt="redux" title="redux">](https://redux.js.org/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/rest.webp" alt="rest" title="rest">](https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20API%20is%20an%20interface,applications%20to%20perform%20various%20tasks.) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/swr.webp" alt="swr" title="swr">](https://swr.vercel.app/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/redis.webp" alt="redis" title="redis">](https://redis.io/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/github-pages.webp" alt="github-pages" title="github-pages">](https://pages.github.com/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/prettier.webp" alt="prettier" title="prettier">](https://prettier.io/) &ensp;
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/git.webp" alt="git" title="git">](https://git-scm.com/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/html.webp" alt="HTML" title="HTML">](https://html.com/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/css.webp" alt="CSS" title="css">](https://developer.mozilla.org/en-US/docs/Web/CSS) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/javascript.webp" alt="Javascript" title="Javascript">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/react-router.webp" alt="React Router" title="React Router">](https://reactrouter.com/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/sass.webp" alt="Sass" title="Sass">](https://sass-lang.com/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/redux.webp" alt="Redux" title="Redux">](https://redux.js.org/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/rest.webp" alt="Rest" title="Rest">](https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20API%20is%20an%20interface,applications%20to%20perform%20various%20tasks.) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/swr.webp" alt="Swr" title="Swr">](https://swr.vercel.app/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/redis.webp" alt="Redis" title="Redis">](https://redis.io/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/github-pages.webp" alt="Github Pages" title="Github Pages">](https://pages.github.com/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/prettier.webp" alt="Prettier" title="Prettier">](https://prettier.io/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/git.webp" alt="Git" title="Git">](https://git-scm.com/) &ensp;
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/eslint.webp" alt="ESLint" title="ESLint">](https://eslint.org/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/axios.webp" alt="Axios" title="Axios">](https://axios-http.com/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/firebase.webp" alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/vercel.webp" alt="vercel" title="vercel">](https://www.vercel.com/) &ensp; 
-
-
-
-
 
 
 
