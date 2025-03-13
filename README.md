@@ -47,9 +47,14 @@ alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp;
 
 ## Featured Projects
 
-| Syntax      | Description |
+| Project      | Details |
 | ----------- | ----------- |
-| Header      | Title       |
+| [<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/vogue-admin-1.webp" alt="Vogue Admin" title="Vogue Admin">](https://vogue-admin.vercel.app/) &ensp; 
+     | 🎨 **Vogue Admin**<br>
+Next.js | Firebase | Zustand | Redis<br>
+✅ Admin dashboard for managing products, orders, and settings.<br>
+✅ Role-based authentication with secure CRUD operations.<br>
+✅ Optimized performance using ISR, SSR, and caching strategies.       |
 | Paragraph   | Text        |
 
 
@@ -59,11 +64,10 @@ alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp;
 <tr>
 <td>
 
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/vogue-admin-1.webp" alt="Vogue Admin" title="Vogue Admin">](https://vogue-admin.vercel.app/) &ensp; 
 
 </td>
 <td>
-🎨 <h3><strong>Vogue Admin</strong></h3><br>
+🎨 **Vogue Admin**<br>
 Next.js | Firebase | Zustand | Redis<br>
 ✅ Admin dashboard for managing products, orders, and settings.<br>
 ✅ Role-based authentication with secure CRUD operations.<br>
