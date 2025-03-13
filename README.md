@@ -4,17 +4,14 @@ Front-end Developer | Next.js Enthusiast
 Building high-performance, scalable web apps
 
 Cairo, Egypt
-abdelrahmanhatem.dev@gmail.com
-[Portfolio](https://www.hatem.bio/) | [LinkedIn](https://www.linkedin.com/in/abdelrahmanhatemdev/)
+abdelrahmanhatem.dev@gmail.com | [Portfolio](https://www.hatem.bio/) | [LinkedIn](https://www.linkedin.com/in/abdelrahmanhatemdev/)
 
----
 
 ## About Me
 I'm a Next.js Front-end Developer with 6+ years of experience in building fast, scalable, and engaging web applications. Passionate about performance optimization, UI/UX design, and state management, I specialize in crafting seamless user experiences with modern technologies like React, TypeScript, Tailwind, and Firebase.
 
 💡 Always exploring new front-end tools and best practices to stay ahead!
 
----
 
 ## Tech Stack
 
@@ -48,9 +45,6 @@ alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp;
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/github-pages.webp" alt="Github Pages" title="Github Pages">](https://pages.github.com/) &ensp;
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/vercel.webp" alt="vercel" title="vercel">](https://www.vercel.com/) &ensp; 
 
-
-
----
 
 ## Featured Projects
 🎨 Vogue Admin
