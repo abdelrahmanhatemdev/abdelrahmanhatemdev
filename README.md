@@ -50,7 +50,11 @@ alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp;
 <table>
 
 <tr>
-<td>[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/vogue-admin.webp" alt="Vogue Admin" title="Vogue Admin">](https://vogue-admin.vercel.app/) &ensp; </td>
+<td>
+
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/vogue-admin.webp" alt="Vogue Admin" title="Vogue Admin">](https://vogue-admin.vercel.app/) &ensp; 
+
+</td>
 <td>
 🎨 **Vogue Admin**<br>
 Next.js | Firebase | Zustand | Redis<br>
