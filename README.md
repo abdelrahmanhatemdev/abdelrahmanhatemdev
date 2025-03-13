@@ -5,7 +5,7 @@
 
 📍 Cairo, Egypt
 📧 abdelrahmanhatem.dev@gmail.com
-🌐 Portfolio | LinkedIn | GitHub
+🌐 [Portfolio](https://www.hatem.bio/) | [LinkedIn](https://www.linkedin.com/in/abdelrahmanhatemdev/)
 
 ---
 
