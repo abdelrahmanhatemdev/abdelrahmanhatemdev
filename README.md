@@ -1,6 +1,5 @@
 # Abdelrahman Hatem
-Front-end Developer | Next.js Enthusiast
-
+Front-end Developer | Next.js Enthusiast <br/>
 Building high-performance, scalable web apps
 
 Cairo, Egypt <br/>
