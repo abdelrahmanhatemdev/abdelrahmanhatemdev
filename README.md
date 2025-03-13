@@ -48,38 +48,12 @@ alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp;
 ## Featured Projects
 🎨 **Vogue Admin**<br>
 Next.js | Firebase | Zustand | Redis
-✅ Admin dashboard for managing products, orders, and settings.
-✅ Role-based authentication with secure CRUD operations.
+✅ Admin dashboard for managing products, orders, and settings.<br>
+✅ Role-based authentication with secure CRUD operations.<br>
 ✅ Optimized performance using ISR, SSR, and caching strategies.
 
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/vercel.webp" alt="vercel" title="vercel">](https://www.vercel.com/) &ensp; 
 
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
-</td>
-<td>
-
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
-</td>
-</tr>
-</table>
 
 🌐 Hatem.bio
 Next.js | Tailwind | Firebase | Framer Motion
