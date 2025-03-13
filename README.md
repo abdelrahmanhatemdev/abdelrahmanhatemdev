@@ -3,7 +3,7 @@ Front-end Developer | Next.js Enthusiast
 
 Building high-performance, scalable web apps
 
-Cairo, Egypt
+Cairo, Egypt <br/>
 abdelrahmanhatem.dev@gmail.com | [Portfolio](https://www.hatem.bio/) | [LinkedIn](https://www.linkedin.com/in/abdelrahmanhatemdev/)
 
 
