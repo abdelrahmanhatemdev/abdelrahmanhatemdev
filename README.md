@@ -64,26 +64,35 @@ Next.js | Firebase | Zustand | Redis<br>
 
 </td>
 </tr>
-</table>
+<tr>
+<td>
 
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/vogue-admin.webp" alt="Hatem Portfolio" title="Hatem Portfolio">](https://hatem.bio/) &ensp; 
 
-
-
-
-🌐 **Hatem.bio**<br>
-Next.js | Tailwind | Firebase | Framer Motion<br>
+</td>
+<td>
+🌐 <strong>Hatem.bio</strong><br>
 ✅ Personal portfolio showcasing projects and skills.<br>
 ✅ Interactive animations for an engaging experience.<br>
 ✅ Firebase contact forms for collaboration requests.
 
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/hatem.webp" alt="Hatem Portfolio" title="Hatem Portfolio">](https://hatem.bio/) &ensp; 
+</td>
+</tr>
+<tr>
+<td>
 
-🎬 **YouTube API Clone**<br>
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/youtube-clone.webp" alt="Youtube Clone" title="Youtube Clone">](https://abdelrahmanhatemdev.github.io/youtube-api/) &ensp; 
+
+</td>
+<td>
+🎬 <strong>YouTube API Clone</strong><br>
 React | YouTube API | GitHub Pages | React Router<br>
 ✅ Video search & playback using YouTube API.<br>
 ✅ Dark/light mode & local storage for user preferences.
 
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/youtube-clone.webp" alt="Youtube Clone" title="Youtube Clone">](https://abdelrahmanhatemdev.github.io/youtube-api/) &ensp; 
+</td>
+</tr>
+</table>
 
 🔍 [**More Projects →**](https://github.com/abdelrahmanhatemdev?tab=repositories)
 
