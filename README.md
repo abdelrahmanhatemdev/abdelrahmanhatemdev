@@ -1,22 +1,22 @@
-# Abdelrahman Hatem 👨‍💻
-🚀 Front-end Developer | Next.js Enthusiast
+# Abdelrahman Hatem
+Front-end Developer | Next.js Enthusiast
 
-🎯 Building high-performance, scalable web apps
+Building high-performance, scalable web apps
 
-📍 Cairo, Egypt
-📧 abdelrahmanhatem.dev@gmail.com
-🌐 [Portfolio](https://www.hatem.bio/) | [LinkedIn](https://www.linkedin.com/in/abdelrahmanhatemdev/)
+Cairo, Egypt
+abdelrahmanhatem.dev@gmail.com
+[Portfolio](https://www.hatem.bio/) | [LinkedIn](https://www.linkedin.com/in/abdelrahmanhatemdev/)
 
 ---
 
-🚀 About Me
+## About Me
 I'm a Next.js Front-end Developer with 6+ years of experience in building fast, scalable, and engaging web applications. Passionate about performance optimization, UI/UX design, and state management, I specialize in crafting seamless user experiences with modern technologies like React, TypeScript, Tailwind, and Firebase.
 
 💡 Always exploring new front-end tools and best practices to stay ahead!
 
 ---
 
-🛠 Tech Stack
+## Tech Stack
 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/nextjs.webp" alt="Nextjs" title="Nextjs">](https://nextjs.org/) &ensp; 
 [<img src="https://abdelrahmanhatemdev.github.io/images/images/stack_frames/react.webp" alt="React" title="React">](https://react.dev/) &ensp; 
@@ -52,7 +52,7 @@ alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp;
 
 ---
 
-🔥 Featured Projects
+## Featured Projects
 🎨 Vogue Admin
 Next.js | Firebase | Zustand | Redis
 ✅ Admin dashboard for managing products, orders, and settings.
@@ -72,8 +72,8 @@ React | YouTube API | GitHub Pages | React Router
 
 🔍 More Projects →
 
-🤝 Let's Connect!
+## Let's Connect!
 I'm always open to collaborations, freelance opportunities, and discussing exciting projects!
 
-📧 abdelrahmanhatem.dev@gmail.com
-🌍 Portfolio | 🐦 Twitter | 💼 LinkedIn
+abdelrahmanhatem.dev@gmail.com
+[Portfolio](https://www.hatem.bio/) | [LinkedIn](https://www.linkedin.com/in/abdelrahmanhatemdev/)
