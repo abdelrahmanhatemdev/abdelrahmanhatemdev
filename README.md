@@ -56,7 +56,7 @@ alt="Firebase" title="Firebase">](https://firebase.google.com/) &ensp;
 
 </td>
 <td>
-🎨 **Vogue Admin**<br>
+🎨 <strong>Vogue Admin</strong><br>
 Next.js | Firebase | Zustand | Redis<br>
 ✅ Admin dashboard for managing products, orders, and settings.<br>
 ✅ Role-based authentication with secure CRUD operations.<br>
