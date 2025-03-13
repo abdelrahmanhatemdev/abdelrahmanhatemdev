@@ -58,6 +58,7 @@ Here are my featured List:
 </td>
 <td>
 🌐 <strong>Hatem.bio</strong><br>
+Next.js, React, TypeScript, Tailwind, Shadcn<br>
 ✅ Personal portfolio showcasing projects and skills.<br>
 ✅ Interactive animations for an engaging experience.<br>
 ✅ Firebase contact forms for collaboration requests.<br>
