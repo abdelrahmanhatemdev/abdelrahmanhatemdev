@@ -69,7 +69,7 @@ Next.js, React, TypeScript, Tailwind, Shadcn<br>
 <tr>
 <td>
 
-[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/vogue-admin-1.webp" alt="Vogue Admin" title="Vogue Admin">](https://vogue-admin.vercel.app/) &ensp;
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/vogue-admin.webp" alt="Vogue Admin" title="Vogue Admin">](https://vogue-admin.vercel.app/) &ensp;
 
 </td>
 <td>
@@ -79,6 +79,22 @@ Next.js | Firebase | Zustand | Redis<br>
 ✅ Role-based authentication with secure CRUD operations.<br>
 ✅ Optimized performance using ISR, SSR, and caching strategies.<br>
 🔗 <a href="https://github.com/abdelrahmanhatemdev/vogue-admin">Repo</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+[<img src="https://abdelrahmanhatemdev.github.io/images/images/profile/simone.webp" alt="Simone" title="Simone">](https://paolo-simone.vercel.app/) &ensp;
+
+</td>
+<td>
+🎨 <strong>Simone</strong><br>
+Next.js, React, TypeScript, Tailwind, Shadcn<br>
+✅ Elegant furniture showcase with smooth browsing and refined UI.<br>
+✅ Framer Motion animations that reflect luxury and craftsmanship.<br>
+✅ Fully responsive design with a modern and creative user interface.<br>
+🔗 <a href="https://github.com/abdelrahmanhatemdev/simone">Repo</a>
 </td>
 </tr>
 
