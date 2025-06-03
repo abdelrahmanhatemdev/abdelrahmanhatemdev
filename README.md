@@ -89,7 +89,7 @@ Next.js, React, TypeScript, Tailwind, Shadcn<br>
 
 </td>
 <td>
-🎨 <strong>Vogue Admin</strong><br>
+💻 <strong>Vogue Admin</strong><br>
 Next.js | Firebase | Zustand | Redis<br>
 ✅ Admin dashboard for managing products, orders, and settings.<br>
 ✅ Role-based authentication with secure CRUD operations.<br>
