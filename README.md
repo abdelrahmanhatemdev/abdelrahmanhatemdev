@@ -123,5 +123,5 @@ React | YouTube API | GitHub Pages | React Router<br>
 I'm always open to collaborations, freelance opportunities, and discussing exciting projects!
 
 <abdelrahmanhatem.dev@gmail.com> |
-[Portfolio](https://www.hatem.bio/) | [LinkedIn](https://www.linkedin.com/in/abdelrahmanhatemdev/) | [Resume](https://drive.google.com/file/d/1hisFG4tiZegV296ad0Cg9tLS1BTIhBC_)
+[Portfolio](https://www.hatem.bio/) | [LinkedIn](https://www.linkedin.com/in/abdelrahmanhatemdev/) | [Resume]([https://drive.google.com/file/d/1hisFG4tiZegV296ad0Cg9tLS1BTIhBC](https://drive.google.com/file/d/1yth3UyaLniVRIv9yb9Akl4aN-DySWVu4/view?usp=sharing)_)
 
